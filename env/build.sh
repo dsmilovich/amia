@@ -2,4 +2,4 @@
 
 set -e
 
-docker build -t python-ceia:1.0 .
+docker build -t python-amia:1.0 .
